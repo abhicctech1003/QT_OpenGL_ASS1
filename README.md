@@ -24,4 +24,6 @@ This project opearates using triangulation of data from STL files and render the
 -  **Visualization**:
    - The program will visualize the triangulated coordinates using OpenGL rendering.
 
+   
+
 
